@@ -1,6 +1,7 @@
 # quiz_dev
 
-A new Flutter project.
+* Projeto desenvolvido na semana NLW5 da trilha Flutter da Rockeseat
+* Consiste em um app quiz de perguntas e respostas sobre conceitos do framework Flutter, para assim servir como uma ferramenta de estudo
 
 ## Getting Started
 
