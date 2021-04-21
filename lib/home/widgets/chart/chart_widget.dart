@@ -17,7 +17,7 @@ class ChartWidget extends StatelessWidget {
               height: 70,
               width: 70,
               child: CircularProgressIndicator(
-                strokeWidth: 7,
+                strokeWidth: 10,
                 value: .75,
                 backgroundColor: AppColors.chartSecondary,
                 valueColor:
